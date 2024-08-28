@@ -1,1 +1,1 @@
-usando AJAX com XMLHttpRequest via jquery
+requisições AJAX com XMLHttpRequest via jquery
